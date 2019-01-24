@@ -1,0 +1,8 @@
+[
+  "scripts/test_display.py::TestSetting::()::test_search_btn",
+  "scripts/test_display.py::TestSetting::()::test_input_search",
+  "scripts/test_display.py::TestSetting::()::test_input[1]",
+  "scripts/test_display.py::TestSetting::()::test_input[2]",
+  "scripts/test_display.py::TestSetting::()::test_input[3]",
+  "scripts/test_display.py::TestSetting::()::test_click_back_btn"
+]
